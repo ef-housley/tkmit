@@ -11,4 +11,6 @@ public class OrganicLifeApplication {
 	}
 //Bu Aygulun commandy
 
+	// bu akjemalyn comandy
+
 }
