@@ -15,7 +15,7 @@ public class Fruit {
     // singleton design.
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private int fruitId; //camelCase
+    private Integer fruitId; //camelCase
     private String fruitName;
 
 
@@ -42,4 +42,5 @@ public class Fruit {
 
     // oy isi Leyla bn Aygule -> aygul-Vegetable class doret
     //leyla -> user
+    // guller -> herbs
 }
